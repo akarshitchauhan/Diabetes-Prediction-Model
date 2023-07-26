@@ -2,7 +2,7 @@ import json
 import requests
 
 
-url = 'https://4bab-34-28-249-145.ngrok.io/diabetes_prediction'
+url = ''
 
 input_data_for_model = {
     
